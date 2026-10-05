@@ -1,2 +1,2 @@
-# dona-clara-emporio-sedenilso
-trabalho design profissinal, padaria
+Eu decidi que o que melhor se aplicaria como solução para o casal seria um site (fácil de implementar e manter) contendo informações da história do lugar, assim mantendo o que fez o estabelecimento até agora, a sensação de familiaridade e cozinha caseira,
+no site implementei botões integrados a página da padaria em diversos serviços de compra de comida on-line, assim quando alguem se interessare pelo site, já vai ter na hora diversas opções para comprar. também coloquei várias opções de contato com os donos.
